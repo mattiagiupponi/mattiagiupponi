@@ -20,6 +20,7 @@ Other knowledges:
 - Airflow
 - Kubernetes
 - Docker
+- GCP
 
 Agile Metodologies:
 - Scrum
