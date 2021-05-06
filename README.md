@@ -15,6 +15,7 @@ Techical Skills
 - Django (2.2 & 3.2)
 - Hug
 - Scala (basic)
+- Javascript
 
 Other knowledges:
 - Airflow
