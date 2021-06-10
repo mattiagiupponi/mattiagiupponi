@@ -9,24 +9,14 @@
 
 :octocat: skills:
 
-Techical Skills
-- Python
-- Flask, 
-- Django (2.2 & 3.2)
-- Hug
-- Scala (basic)
-- Javascript
-
-Other knowledges:
-- Airflow
-- Kubernetes
-- Docker
-- GCP
-
-Agile Metodologies:
-- Scrum
-- Kanban
-
+| Techical Skills :bomb:  |      Other knowledges   :hammer:   |  Agile Metodologies :bookmark_tabs: |
+|----------|:-------------:|------:|
+| Python |  Airflow | Scrum |
+| Flask |  GCP | Kanban |
+| Django (2.2 & 3.2) | Kubernetes ||
+| Hug | Docker ||
+| Scala (basic)| ||
+| Javascript| ||
 
 <!---
 mattiagiupponi/mattiagiupponi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
