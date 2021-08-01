@@ -22,3 +22,10 @@
 mattiagiupponi/mattiagiupponi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Public repositories:
+- Django ToggleField: https://github.com/mattiagiupponi/django-togglefield/tree/master
+- Django Medium tutorialin Italian: https://github.com/mattiagiupponi/django-tutorial
+
+Read my stories on Medium!(IT)
+https://medium.com/me/stories/public
