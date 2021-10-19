@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 Public repositories:
 - Django ToggleField: https://github.com/mattiagiupponi/django-togglefield/tree/master
-- Django Medium tutorialin Italian: https://github.com/mattiagiupponi/django-tutorial
+- Django Medium tutorial in Italian: https://github.com/mattiagiupponi/django-tutorial
 
-Read my stories on Medium!(IT)
-https://medium.com/me/stories/public
+Read my stories on Medium!
+https://mattia-giupponi.medium.com/
