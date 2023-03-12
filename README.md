@@ -5,7 +5,7 @@
 🌱 I’m currently a Software Engineer [@geosolutions-it](https://github.com/geosolutions-it), as a 🐍 Python/Django Developer
 
 📫 How to reach me:
-- linkedin: https://www.linkedin.com/in/mattia-giupponi-developer/
+- linkedin: https://www.linkedin.com/in/matgdev
 
 :octocat: skills:
 
