@@ -29,3 +29,7 @@ Public repositories:
 
 Read my stories on Medium!
 https://mattia-giupponi.medium.com/
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiagiupponi&show_icons=true&bg_color=00000000)
+
