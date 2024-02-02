@@ -13,9 +13,8 @@
 |----------|:-------------:|------:|
 | Python |  Airflow | Scrum |
 | Flask |  GCP | Kanban |
-| Django (2.2 & 3.2) | Kubernetes ||
+| Django (3.2 & 4.2) | Kubernetes ||
 | Hug | Docker ||
-| Scala (basic)| ||
 | Javascript| ||
 
 <!---
