@@ -30,5 +30,5 @@ Read my stories on Medium!
 https://mattia-giupponi.medium.com/
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiagiupponi&show_icons=true&bg_color=00000000)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mattiagiupponi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=mattiagiupponi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true)
 
